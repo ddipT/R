@@ -4,4 +4,6 @@ print("Hello World")
 # The program will then loop accepting new inputs constantly giving out the correct answer to the sum.
 
 
+# qoutes can be supressed in the output
+print("Hello World", qoute = FALSE)
 
