@@ -8,3 +8,22 @@ print("Hello World")
 print("Hello World", qoute = FALSE)
 #Adding in a change to push via RStudio
 
+varible1 = 1 + 1
+
+print(varible1)
+
+vector2 = c(1,2,3,4,5,6,1,2,3,4,5,6)
+
+vector3 = 1.2:5
+print(vector3)
+print(vector2)
+
+#creating vectors that will cancel eachother out to 100
+
+v1 = 1:99
+v2 = 99:1
+
+print(v1)
+print(v2)
+v3 = v1 + v2
+print(v3)
