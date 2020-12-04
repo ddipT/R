@@ -38,3 +38,15 @@ print(v5)
 v6= v4 + v5 
 
 print(v6)
+
+m1 = matrix(c(1,2,3,4,5,6,7,8,9), nrow = 3)
+print(m1)
+
+m2 = matrix(1:12,ncol = 4)
+print(m2)
+
+
+#Working with matricies, and how to add/ manipulate them
+
+
+
