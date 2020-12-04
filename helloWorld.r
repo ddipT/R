@@ -27,3 +27,14 @@ print(v1)
 print(v2)
 v3 = v1 + v2
 print(v3)
+
+#adding vectors that are different sizes
+
+v4 = 1:4
+
+v5 = 1:12
+print(v4)
+print(v5)
+v6= v4 + v5 
+
+print(v6)
