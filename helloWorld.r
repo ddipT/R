@@ -6,12 +6,5 @@ print("Hello World")
 
 # qoutes can be supressed in the output
 print("Hello World", qoute = FALSE)
-
-
-
-
-
-for (x in y) {
-  print(x,y)
-}
 #Adding in a change to push via RStudio
+
