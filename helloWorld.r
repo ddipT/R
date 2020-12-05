@@ -46,7 +46,7 @@ m2 = matrix(1:12,ncol = 4)
 print(m2)
 
 
-#Working with matricies, and how to add/ manipulate them
+#Working with matrices, and how to add/ manipulate them
 
 
 
